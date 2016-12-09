@@ -1,12 +1,6 @@
-# iOctocat [![Build Status](https://travis-ci.org/dennisreimann/ioctocat.png?branch=master)](https://travis-ci.org/dennisreimann/ioctocat)
+# Swift VCS, by Westlake APC [![Slack Status](https://westlakeapc.herokuapp.com/badge.svg)](https://westlakeapc.herokuapp.com/)
 
-… is a GitHub app for your iOS devices (iPad, iPhone and iPod Touch).
-It is open source and [available on the App Store](http://ioctocat.com/appstore-iphone).
-
-
-For further information visit the [project website](http://ioctocat.com).
-
-Your participation is welcome. Feel free to fork, add missing features or report issues :)
+Swift VCS is a project by the Westlake Accessible Programming Club. It's a Swift 3.0 application meant as a version control client for repositories of all sorts. Currently, we are using **iOctocat** as a base and expanding the system to work cross platform.
 
 ## Further information
 
