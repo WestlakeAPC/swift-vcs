@@ -1,4 +1,4 @@
-# Swift VCS, by Westlake APC [![Slack Status](https://westlakeapc.herokuapp.com/badge.svg)](https://westlakeapc.herokuapp.com/)
+# Swift VCS, by Westlake APC [![Slack Status](https://westlakeapc.herokuapp.com/badge.svg)](https://westlakeapc.herokuapp.com/) [![Known Vulnerabilities](https://snyk.io/test/github/westlakeapc/swift-vcs/badge.svg)](https://snyk.io/test/github/westlakeapc/swift-vcs)
 
 Swift VCS is a project by the Westlake Accessible Programming Club. It's a Swift 3.0 application meant as a version control client for repositories of all sorts. Currently, we're building on **iOctocat** and expanding the system to work cross platform.
 
