@@ -12,7 +12,7 @@ Swift VCS is a project by the Westlake Accessible Programming Club. It's a Swift
 
 Modified from the code of iOctocat:
 
->```Copyright (c) 2009-2012 Dennis Reimann
+> ```Copyright (c) 2009-2012 Dennis Reimann
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
@@ -31,7 +31,8 @@ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
 LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
 OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
-WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.```
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
 
 iOctocat uses some third party components and libraries:
 
