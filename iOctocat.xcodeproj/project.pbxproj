@@ -2994,7 +2994,7 @@
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				CLASSPREFIX = io.github.WestlakeAPC;
+				CLASSPREFIX = "";
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "Westlake APC";
 				TargetAttributes = {
@@ -4245,7 +4245,7 @@
 				GCC_VERSION = "";
 				INFOPLIST_FILE = Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "de.dennisbloete.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.WestlakeAPC.SwiftVCS;
 				PRODUCT_NAME = iOctocat;
 				PROVISIONING_PROFILE = "";
 				SWIFT_VERSION = 3.0;
@@ -4279,7 +4279,7 @@
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				INFOPLIST_FILE = "iOctocatUnitTests/iOctocatUnitTests-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = de.dennisreimann.iOctocatUnitTests;
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.WestlakeAPC.SwiftVCS.UnitTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 				TEST_HOST = "${BUNDLE_LOADER}";
@@ -4309,7 +4309,7 @@
 				GCC_PREFIX_HEADER = "iOctocatUnitTests/iOctocatUnitTests-Prefix.pch";
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				INFOPLIST_FILE = "iOctocatUnitTests/iOctocatUnitTests-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = de.dennisreimann.iOctocatUnitTests;
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.WestlakeAPC.SwiftVCS.UnitTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 				TEST_HOST = "${BUNDLE_LOADER}";
@@ -4373,7 +4373,7 @@
 				GCC_VERSION = "";
 				INFOPLIST_FILE = Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "de.dennisbloete.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.WestlakeAPC.SwiftVCS;
 				PRODUCT_NAME = iOctocat;
 				PROVISIONING_PROFILE = "";
 				SWIFT_VERSION = 3.0;
@@ -4401,7 +4401,7 @@
 				);
 				INFOPLIST_FILE = "$(SRCROOT)/Info-Beta.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "de.dennisreimann.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.WestlakeAPC.SwiftVCS.Beta;
 				PRODUCT_NAME = iOctocatBeta;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -4426,7 +4426,7 @@
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "$(SRCROOT)/Info-Beta.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "de.dennisreimann.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_BUNDLE_IDENTIFIER = io.github.WestlakeAPC.SwiftVCS.Beta;
 				PRODUCT_NAME = iOctocatBeta;
 				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = "1,2";
