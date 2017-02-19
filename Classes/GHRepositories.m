@@ -23,7 +23,7 @@
 	compareRepositories = ^(GHRepository *repo1, GHRepository *repo2) {
 		if (!repo1.pushedAtDate) return NSOrderedDescending;
 		if (!repo2.pushedAtDate) return NSOrderedAscending;
-		return (NSInteger)[repo2.pushedAtDate compare:repo1.pushedAtDate];
+		return ((long)[repo2.pushedAtDate compare:repo1.pushedAtDate]);
 	};
 	[self.items sortUsingComparator:compareRepositories];
 }

@@ -54,7 +54,7 @@ static NSString *IOCNormalizedDeviceToken(id deviceToken) {
     BOOL useBadge = [[defaults valueForKey:kUnreadBadgeDefaultsKey] boolValue];
     id badge = useBadge ? [NSString stringWithFormat:@"%ld", (long)[UIApplication sharedApplication].applicationIconBadgeNumber] : [NSNull null];
     NSMutableDictionary *params = [NSMutableDictionary dictionary];
-    [params setValue:[[NSLocale currentLocale] identifier] forKey:@"locale"];
+    [params setValue:[[NSLocale currentLocale] localeIdentifier] forKey:@"locale"];
     [params setValue:[[NSLocale preferredLanguages] objectAtIndex:0] forKey:@"language"];
     [params setValue:[[NSTimeZone defaultTimeZone] name] forKey:@"timezone"];
     [params setValue:badge forKey:@"badge"];
