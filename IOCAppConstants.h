@@ -15,7 +15,7 @@
 #define kRequestMethodPost              @"POST"
 #define kRequestMethodPatch             @"PATCH"
 #define kRequestMethodDelete            @"DELETE"
-#define kGitHubComURL                   @"https://github.com"
+#define kGitHubComURL                   @"https://github.com" // Note: This must be abstracted to allow GitHub Enterprise access.
 #define kGitHubApiURL                   @"https://api.github.com"
 #define kEnterpriseApiPath              @"api/v3"
 #define kIssueStateOpen                 @"open"
