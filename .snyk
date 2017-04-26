@@ -6,4 +6,7 @@ ignore:
     - '* > cocoapods@0.19.1':
         reason: None given
         expires: '2017-04-21T14:56:23.376Z'
+    - '* > cocoapods@0.19.1':
+        reason: None given
+        expires: '2017-05-26T14:35:22.313Z'
 patch: {}
